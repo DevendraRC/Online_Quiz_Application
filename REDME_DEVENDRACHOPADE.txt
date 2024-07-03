@@ -1,0 +1,12 @@
+Devendra Rajendra Chopade
+Email: devendrachopade6@gmail.com
+Mobile: +91 8208096061
+
+Responsive Online Quiz Application Using Spring Boot| | PROJECT ID – 65HIBKJS
+
+MCQ based quiz application using Spring Boot, Spring Data JPA, MySQL, Thymeleaf and Bootstrap 5.
+This project was made as a part of Submition of Internship For Innobyte Services,Delhi.(Remote)
+
+
+
+Have a nice day.
